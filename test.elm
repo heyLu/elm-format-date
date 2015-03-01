@@ -4,7 +4,7 @@ on that!
 
 import Date
 import List (map)
-import FormatString (formatDate)
+import FormatDate (formatDate)
 import ElmTest.Test (test, Test, suite)
 import ElmTest.Assertion (assertEqual)
 import ElmTest.Runner.Element (runDisplay)

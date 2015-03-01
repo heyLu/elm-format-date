@@ -6,7 +6,7 @@
     "source-directories": [
         "."
     ],
-    "exposed-modules": ["FormatString"],
+    "exposed-modules": ["FormatDate"],
     "dependencies": {
         "deadfoxygrandpa/Elm-Test": "1.0.2 <= v < 2.0.0",
         "elm-lang/core": "1.0.0 <= v < 2.0.0"

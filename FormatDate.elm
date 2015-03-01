@@ -1,4 +1,4 @@
-module FormatString (formatDate) where
+module FormatDate (formatDate) where
 {-|Format strings for dates.
 
 @docs formatDate
