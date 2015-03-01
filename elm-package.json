@@ -1,7 +1,7 @@
 {
     "version": "2.0.0",
     "summary": "Format dates with ease",
-    "repository": "https://github.com/mgold/Elm-Format-String.git",
+    "repository": "https://github.com/heyLu/elm-format-date.git",
     "license": "BSD3",
     "source-directories": [
         "."
