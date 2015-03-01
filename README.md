@@ -30,6 +30,12 @@ The input `String` may contain any of the following substrings, which will be ex
 
 Note that `%%` is intended to produce a literal `%` but this is not supported yet.
 
+Development
+-----------
+
+Run the tests using `elm-make test.elm --output test.html --yes` and
+viewing `test.html` in your browser.
+
 Contributing
 ------------
 
